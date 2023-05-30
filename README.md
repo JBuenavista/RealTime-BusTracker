@@ -11,7 +11,7 @@ This project was mainly developed by MIT as part of their exercise projects. My 
 1. From this GitHub Page, click on the button that says "<> CODE". It's a dropdown menu.
 2. Select the "Download Zip" button.
 3. From your personal computer's download folder, unzip the folder.
-4. Open "RealTime-BusTracker" folder
+4. Open "RealTime-BusTracker-main" folder
 5. Double click "index.html"
 6. It should open into a web browser for activity.
 
